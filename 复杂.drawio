@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-04T09:02:53.503Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36" etag="ss__Xj3NH4LIJufoY5kA" version="12.1.9" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-11-04T09:03:09.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36" etag="O3tXqyZ8SqNmdt5BZgUK" version="12.1.9" type="github" pages="4">
   <diagram id="ucN_eq42EwhsVekuWUfu" name="第 1 页">
     <mxGraphModel dx="2249" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4872,7 +4872,7 @@
           <mxGeometry x="476" y="436" width="50" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="dNzvE0Pyg1SteDYP__3y-324" value="&lt;div&gt;&lt;b style=&quot;font-size: 16px&quot;&gt;&lt;font&gt;允许的转移状态&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=center;verticalAlign=top;spacingTop=-4;fontFamily=Times New Roman;fontColor=#CC00CC;" vertex="1" parent="-j_ntwTrwU2_f6yTey6G-1">
-          <mxGeometry x="615" y="474.5" width="130" height="20" as="geometry"/>
+          <mxGeometry x="605.5" y="474" width="130" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
