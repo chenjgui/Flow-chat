@@ -1,4 +1,4 @@
-<mxfile modified="2020-04-03T23:47:45.155Z" host="www.draw.io" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="w6aP7jwGlQKB1qTNpw81" version="12.9.5" type="github" pages="4">
+<mxfile modified="2020-04-04T00:02:58.151Z" host="www.draw.io" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="SFKcxvEUuaR-MXbfiea-" version="12.9.5" type="github" pages="4">
   <diagram id="YjQGv2frl0r7xJmvuS65" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
@@ -481,10 +481,10 @@
         <mxCell id="Gp_abTeUqCpOfdkIbLyH-5" value="&lt;span style=&quot;font-size: 22px; font-weight: 400;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 22px;&quot;&gt;多种特征&lt;br style=&quot;font-size: 22px;&quot;&gt;提取策略&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;fontStyle=1;fontFamily=黑体;fontSize=22;" vertex="1" parent="KCsgjttljpqjh2i421DY-1">
           <mxGeometry x="730" y="70" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Gp_abTeUqCpOfdkIbLyH-6" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 22px;&quot;&gt;&lt;span style=&quot;font-size: 22px; font-weight: 400;&quot;&gt;过采样算法&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;fontStyle=1;fontFamily=黑体;fontSize=22;" vertex="1" parent="KCsgjttljpqjh2i421DY-1">
+        <mxCell id="Gp_abTeUqCpOfdkIbLyH-6" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 22px&quot;&gt;&lt;span style=&quot;font-size: 22px ; font-weight: 400&quot;&gt;过采样算法对比&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;fontStyle=1;fontFamily=黑体;fontSize=22;" vertex="1" parent="KCsgjttljpqjh2i421DY-1">
           <mxGeometry x="730" y="220" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Gp_abTeUqCpOfdkIbLyH-7" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 22px;&quot;&gt;&lt;span style=&quot;font-size: 22px; font-weight: 400;&quot;&gt;特征选择&lt;br style=&quot;font-size: 22px;&quot;&gt;算法&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;fontStyle=1;fontFamily=黑体;fontSize=22;" vertex="1" parent="KCsgjttljpqjh2i421DY-1">
+        <mxCell id="Gp_abTeUqCpOfdkIbLyH-7" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 22px&quot;&gt;&lt;span style=&quot;font-size: 22px ; font-weight: 400&quot;&gt;特征选择&lt;br style=&quot;font-size: 22px&quot;&gt;算法对比&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;fontStyle=1;fontFamily=黑体;fontSize=22;" vertex="1" parent="KCsgjttljpqjh2i421DY-1">
           <mxGeometry x="730" y="370" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Gp_abTeUqCpOfdkIbLyH-11" value="" style="endArrow=block;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endFill=1;fontSize=22;" edge="1" parent="KCsgjttljpqjh2i421DY-1" source="Gp_abTeUqCpOfdkIbLyH-1" target="Gp_abTeUqCpOfdkIbLyH-4">
@@ -520,7 +520,7 @@
             <mxPoint x="835" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gp_abTeUqCpOfdkIbLyH-17" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 22px;&quot;&gt;&lt;span style=&quot;font-size: 22px; font-weight: 400;&quot;&gt;糖化位点预测&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;fontStyle=1;fontFamily=黑体;fontSize=22;" vertex="1" parent="KCsgjttljpqjh2i421DY-1">
+        <mxCell id="Gp_abTeUqCpOfdkIbLyH-17" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 22px&quot;&gt;&lt;span style=&quot;font-size: 22px ; font-weight: 400&quot;&gt;瓜氨酸化位点预测&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;fontStyle=1;fontFamily=黑体;fontSize=22;" vertex="1" parent="KCsgjttljpqjh2i421DY-1">
           <mxGeometry x="730" y="544" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Gp_abTeUqCpOfdkIbLyH-18" value="" style="endArrow=block;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endFill=1;fontSize=22;" edge="1" parent="KCsgjttljpqjh2i421DY-1" source="Gp_abTeUqCpOfdkIbLyH-7" target="Gp_abTeUqCpOfdkIbLyH-17">
