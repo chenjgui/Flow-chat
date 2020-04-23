@@ -1,4 +1,4 @@
-<mxfile modified="2020-04-23T08:57:40.356Z" host="www.draw.io" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="aQORw0jOH3rJmhAmOWLP" version="12.9.14" type="github" pages="4">
+<mxfile modified="2020-04-23T09:09:29.766Z" host="www.draw.io" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="bUpplZv-MkTz_PGsSbeR" version="12.9.14" type="github" pages="4">
   <diagram id="YjQGv2frl0r7xJmvuS65" name="Page-1">
     <mxGraphModel dx="868" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
@@ -869,7 +869,7 @@
     
   </diagram>
   <diagram id="J6CTNARao6A7lw2HVVCp" name="Page-4">
-    <mxGraphModel dx="1447" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1447" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="KCsgjttljpqjh2i421DY-0" />
         <mxCell id="KCsgjttljpqjh2i421DY-1" parent="KCsgjttljpqjh2i421DY-0" />
@@ -906,9 +906,9 @@
         <mxCell id="Gp_abTeUqCpOfdkIbLyH-13" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 22px;&quot;&gt;&lt;span style=&quot;font-size: 22px; font-weight: 400;&quot;&gt;糖化位点预测&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;fontStyle=1;fontFamily=黑体;fontSize=22;" parent="KCsgjttljpqjh2i421DY-1" vertex="1">
           <mxGeometry x="263" y="544" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Gp_abTeUqCpOfdkIbLyH-14" value="" style="endArrow=block;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endFill=1;fontSize=22;" parent="KCsgjttljpqjh2i421DY-1" source="Gp_abTeUqCpOfdkIbLyH-4" target="Gp_abTeUqCpOfdkIbLyH-13" edge="1">
+        <mxCell id="Gp_abTeUqCpOfdkIbLyH-14" value="" style="endArrow=block;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endFill=1;fontSize=22;" parent="KCsgjttljpqjh2i421DY-1" target="Gp_abTeUqCpOfdkIbLyH-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="511.32999999999976" y="533.9999999999999" as="sourcePoint" />
+            <mxPoint x="495" y="460" as="sourcePoint" />
             <mxPoint x="511.32999999999976" y="603.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -927,9 +927,9 @@
         <mxCell id="Gp_abTeUqCpOfdkIbLyH-17" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 22px&quot;&gt;&lt;span style=&quot;font-size: 22px ; font-weight: 400&quot;&gt;瓜氨酸化位点预测&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;strokeWidth=1;fontStyle=1;fontFamily=黑体;fontSize=22;" parent="KCsgjttljpqjh2i421DY-1" vertex="1">
           <mxGeometry x="730" y="544" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Gp_abTeUqCpOfdkIbLyH-18" value="" style="endArrow=block;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endFill=1;fontSize=22;" parent="KCsgjttljpqjh2i421DY-1" source="Gp_abTeUqCpOfdkIbLyH-7" target="Gp_abTeUqCpOfdkIbLyH-17" edge="1">
+        <mxCell id="Gp_abTeUqCpOfdkIbLyH-18" value="" style="endArrow=block;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endFill=1;fontSize=22;" parent="KCsgjttljpqjh2i421DY-1" target="Gp_abTeUqCpOfdkIbLyH-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="505.0000000000002" y="460" as="sourcePoint" />
+            <mxPoint x="825" y="460" as="sourcePoint" />
             <mxPoint x="368" y="554" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -998,12 +998,12 @@
         </mxCell>
         <mxCell id="0XrskmmucesI-2CuNM6G-7" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" edge="1" parent="KCsgjttljpqjh2i421DY-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="930" y="460" as="sourcePoint" />
-            <mxPoint x="930" y="460" as="targetPoint" />
+            <mxPoint x="930" y="459" as="sourcePoint" />
+            <mxPoint x="930" y="459" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="720" y="460" />
-              <mxPoint x="720" y="40" />
-              <mxPoint x="930" y="40" />
+              <mxPoint x="720" y="459" />
+              <mxPoint x="720" y="39" />
+              <mxPoint x="930" y="39" />
             </Array>
           </mxGeometry>
         </mxCell>
